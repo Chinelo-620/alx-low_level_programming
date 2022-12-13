@@ -1,0 +1,2 @@
+l#!/bin/bash
+gcc -S 
